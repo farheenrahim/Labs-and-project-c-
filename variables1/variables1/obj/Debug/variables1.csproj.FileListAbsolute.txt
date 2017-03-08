@@ -1,0 +1,8 @@
+c:\users\farhe\onedrive\documents\visual studio 2015\Projects\variables1\variables1\bin\Debug\variables1.exe.config
+c:\users\farhe\onedrive\documents\visual studio 2015\Projects\variables1\variables1\bin\Debug\variables1.exe
+c:\users\farhe\onedrive\documents\visual studio 2015\Projects\variables1\variables1\bin\Debug\variables1.pdb
+c:\users\farhe\onedrive\documents\visual studio 2015\Projects\variables1\variables1\obj\Debug\variables1.Form1.resources
+c:\users\farhe\onedrive\documents\visual studio 2015\Projects\variables1\variables1\obj\Debug\variables1.Properties.Resources.resources
+c:\users\farhe\onedrive\documents\visual studio 2015\Projects\variables1\variables1\obj\Debug\variables1.csproj.GenerateResource.Cache
+c:\users\farhe\onedrive\documents\visual studio 2015\Projects\variables1\variables1\obj\Debug\variables1.exe
+c:\users\farhe\onedrive\documents\visual studio 2015\Projects\variables1\variables1\obj\Debug\variables1.pdb
